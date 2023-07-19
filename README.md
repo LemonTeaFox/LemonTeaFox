@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  I'm a sistem administrator and security student, I just have 3 years of exp so I'm pretty new at this,
-  hope to learn more with the help of all of you guys!
+  I'm a recently new dev so I hope I can learn a lot with you guys!
 </p>
 
 <p align="left">
